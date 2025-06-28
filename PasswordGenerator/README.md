@@ -25,12 +25,8 @@ A simple console-based password generator written in Java. This mini project gen
 
 ## 🚀 How to Run
 
-### 1. Compile.
+### 1. Compile & Run.
 
 ```bash
 javac main.java
-
-### 1. run.
-
-```bash
 java main
